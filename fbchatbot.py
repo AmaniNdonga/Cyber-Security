@@ -1,7 +1,7 @@
 from fbchat import Client
 from fbchat.models import Message, MessageReaction
 
-username = "ndonga50@gmail.com"
+username = "EMAIL@email.com"
 password = "itslit"
 
 client = Client(username, password)
